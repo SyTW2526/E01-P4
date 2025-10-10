@@ -4,4 +4,4 @@
 
 - Alberto Oria Martín (senior)
 - Marcial Álvarez Parejo (junior)
-- Airam Prieto Pérez (junior)
+- Airam Prieto González (junior)
