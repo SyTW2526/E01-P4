@@ -6,7 +6,7 @@ import { Employee } from './employee';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private url = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+  private url = 'http://10.6.130.132:8080';
   employees$ = signal<Employee[]>([]);
   employee$ = signal<Employee>({} as Employee);
 
